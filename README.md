@@ -15,3 +15,4 @@
 
 ### UML
 ![UML](./assets/lab19UML.jpg)
+* HD version of class UML (credit to Brandyn)
